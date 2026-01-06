@@ -94,7 +94,3 @@ This project is licensed under the **MIT License**. See the `MIT-LICENSE.txt` fi
 ## ⭐ Acknowledgements
 
 This project was developed as an educational team effort, combining design and backend logic to create a functional e-commerce platform.
-
----
-
-If you want, I can also help you add badges (License, Languages, Stars), a **demo link**, or a **deployment guide** for LenssHub. Just let me know!
